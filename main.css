@@ -1,0 +1,50 @@
+html, body {
+	background-color: white;	
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;	
+}
+
+.header
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: black;
+	margin: 20px;
+	align-self: center;
+	margin-bottom: 100px;
+}
+
+.container
+{
+		text-align: center;
+}
+
+.k-menu
+{
+	background-color:#4682B4;
+}
+
+
+.text_footer 
+{
+	text-align: left !important;
+	line-height: 1 !important;
+}
+
+.picture, .p_text 
+{
+	display:inline-block;
+	color:black;
+}
+
+.picture img
+{
+	width: 100%;
+}
+
+.row
+{
+	margin-top: 20 px;
+	margin-bottom: 20px;
+}
+
